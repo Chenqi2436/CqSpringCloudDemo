@@ -1,2 +1,0 @@
-# CqSpringCloudDemo
-test demo
