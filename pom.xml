@@ -10,6 +10,8 @@
   <packaging>pom</packaging>
   <modules>
     <module>cloud-provider-payment8001</module>
+    <module>cq-test-function</module>
+    <module>cq-test-common</module>
   </modules>
 
 
